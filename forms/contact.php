@@ -26,7 +26,7 @@
   $contact->smtp = array(
     'host' => 'smtp-mail.outlook.com',
     'username' => 'mepv2015@hotmail.com',
-    'password' => 'Gr228X18',
+    'password' => '1234',
     'port' => '587'
   );
   
@@ -37,5 +37,6 @@
 
   echo $contact->send();
 ?>
+
 
 
